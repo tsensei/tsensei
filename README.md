@@ -84,4 +84,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tsensei&&style=flat-square" align="center" />
 </div>  
+
+[![An image of @tsensei's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tsensei)](https://holopin.io/@tsensei)
  
